@@ -1,12 +1,12 @@
 
-cd xxx    ½øÈëxxxÄ¿Â¼
-ls (-a/-A)   ÏÔÊ¾µ±Ç°Â·¾¶ÏÂËùÓĞÎÄ¼ş(Òş²ØµÄ)
-pwd       ÏÔÊ¾µ±Ç°¾ø¶ÔÂ·¾¶
-mkdir  xxx   ´´½¨ÎÄ¼ş¼Ğxxx
-man xxx     ²é¿´xxxÃüÁîÊÖ²á
+cd xxx    è¿›å…¥xxxç›®å½•
+ls (-a/-A)   æ˜¾ç¤ºå½“å‰è·¯å¾„ä¸‹æ‰€æœ‰æ–‡ä»¶(éšè—çš„)
+pwd       æ˜¾ç¤ºå½“å‰ç»å¯¹è·¯å¾„
+mkdir  xxx   åˆ›å»ºæ–‡ä»¶å¤¹xxx
+man xxx     æŸ¥çœ‹xxxå‘½ä»¤æ‰‹å†Œ
 
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:ErickYangs/test.git
-git push -u origin master
+git push 
